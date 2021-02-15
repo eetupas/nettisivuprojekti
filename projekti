@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="projekticss.css">
+</head>
+<body>
+<header>
+    <img class="logo" src="" alt="logo">
+    <nav>
+        <ul class="navlinkit">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <a class="cta" href="#"><button>nappi</button></a>
+</header>
+<main>
+    <article>
+        <figure id = "tilastot1">
+
+        </figure>
+        <figure id = "tilastot2">
+
+        </figure>
+        <figure id = "tilastot3">
+
+        </figure>
+    </article>
+    <aside>
+        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+        <div class="elfsight-app-53b2148c-de6f-4f65-bacc-2044c8b001c5"></div>
+    </aside>
+</main>
+<footer>
+
+</footer>
+</body>
+</html>
